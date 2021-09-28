@@ -1,0 +1,47 @@
+commit 64ce18415727134b4756224c444f74eee8202917
+Author: Joshua Lee <joshualee2864@gmail.com>
+Date:   Tue Sep 28 11:42:55 2021 -0600
+
+    changed eye color to blue D:Lee N:Lamkin
+
+commit ab6969bf86b331d42dd8a12bc590b5adee72f4e0
+Author: A-TRA1N <alamkin@mines.edu>
+Date:   Tue Sep 28 11:41:33 2021 -0600
+
+    Made cat face color gray D:Aidan N:Joshua
+
+commit 39cf4864f41571165ce9706b3416b804f1ae10c3
+Author: Joshua Lee <joshualee2864@gmail.com>
+Date:   Tue Sep 28 11:39:37 2021 -0600
+
+    Changed cat mouth color from pink to black D:Lee N:Lamkin
+
+commit 47731b9c7e26f36595cbe0f3990b8416d774777e
+Author: A-TRA1N <alamkin@mines.edu>
+Date:   Tue Sep 28 11:38:11 2021 -0600
+
+    Changed eyes to red D:Aidan N:Joshua
+
+commit 5a30895974d356bcc108bb01acb3ad71848df2e3
+Author: Joshua Lee <joshualee2864@gmail.com>
+Date:   Tue Sep 28 11:35:35 2021 -0600
+
+    Changed cat face color to green and cat eye color to blue D:Lee N:Lamkin
+
+commit 5bb11cb3fe0a473ba4ecda8f5e44d73993cdfd69
+Author: Joshua Lee <joshualee@mines.edu>
+Date:   Tue Sep 28 11:29:34 2021 -0600
+
+    Changed cat face color to blue instead of black D:Lee N:Lamkin
+
+commit 8216806402594fd6537639203906932177635e3e
+Author: A-TRA1N <alamkin@mines.edu>
+Date:   Tue Sep 28 11:10:48 2021 -0600
+
+    Initial commit D:Aidan N:Joshua
+
+commit 95fb71585e9594f355b8da3c141b95a591f37ce7
+Author: A-TRA1N <alamkin@mines.edu>
+Date:   Tue Sep 28 10:56:15 2021 -0600
+
+    Initial commit
